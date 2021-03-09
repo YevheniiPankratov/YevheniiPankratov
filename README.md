@@ -9,8 +9,9 @@
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-### ✉️ Mail me: pankratov.yevhenii999@gmail.com
+### 📧 Mail me: pankratov.yevhenii999@gmail.com
 ### 🌐 Telegram, Instagram: @traintoblowww
+### 🔗 LinkedIn: linkedin.com/in/yevhenii-pankratov999
 #
 > Beer is proof that God loves us and want us to be happy. <br/>
 > ***Benjamin Franklin***
