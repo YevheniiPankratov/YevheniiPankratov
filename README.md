@@ -1,5 +1,5 @@
 # 👋🏻 Hi, my name is **Yevhenii Pankratov**!
-## I'm a beginner *Front-end developer* from Kharkov.
+## I'm *Front-end developer* from Kharkov.
 
 ### Languages and Technologies 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
